@@ -1,2 +1,3 @@
 name: Nick Homenda
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
